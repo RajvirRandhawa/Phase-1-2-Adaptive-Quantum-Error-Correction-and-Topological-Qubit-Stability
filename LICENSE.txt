@@ -1,0 +1,70 @@
+﻿LICENSE
+For Phase 1 & 2 – Quantum Computation Model
+ Copyright © 2025 Rajvir Singh (Rajvir Randhawa). All Rights Reserved.
+________________
+
+
+1. Grant of License
+This license governs all content related to Phase 1 and Phase 2 of original research in Quantum Computation and Quantum Gravity.
+* All mathematical models, theoretical constructs, algorithms, simulation architectures, and computational frameworks within this repository are legally protected under Indian and international intellectual property laws.
+
+* No individual or entity may reproduce, distribute, modify, translate, commercialize, or incorporate any part of this work into any academic, institutional, governmental, or commercial application without explicit written authorization from the author.
+
+* Phases 3 & 4 exist and are intentionally withheld. Any attempt to infer, reconstruct, reverse-engineer, or claim association with them—directly or indirectly—is strictly prohibited and will trigger legal consequences.
+
+________________
+
+
+2. Legal Protection & Governing Laws
+🇮🇳 Indian Statutes:
+   * Copyright Act, 1957 (Amended 2012): Grants full ownership and control over reproduction and modification.
+
+   * Patents Act, 1970 (Amended 2005): Prohibits unapproved institutional or commercial patent filings based on this research.
+
+   * Information Technology Act, 2000: Forbids cyber theft, AI-assisted scraping, and unauthorized data mining.
+
+   * Contract Act, 1872: Binds any agreement regarding this work to enforceable legal obligations.
+
+🌍 International Conventions:
+      * Berne Convention (1886): Multinational copyright enforcement.
+
+      * TRIPS Agreement (1995): Legal protection in all WTO member states.
+
+      * Universal Copyright Convention (1952): Guarantees cross-border recognition of rights.
+
+      * WIPO Copyright Treaty (1996): Specifically protects digital/IPR content against AI and software exploitation.
+
+________________
+
+
+3. Prohibited Uses & Restrictions
+The following are strictly forbidden:
+         * Reproducing, modifying, or distributing any part of this research without prior consent.
+
+         * Using this work—partially or entirely—within universities, R&D labs, think tanks, government bodies, companies, or open-source platforms without a signed agreement.
+
+         * Claiming authorship, co-authorship, or derivative ownership.
+
+         * Reverse-engineering or using AI/ML models to extrapolate Phase 3 or Phase 4.
+
+         * Filing patents, initiating commercialization, or presenting derivative technical proposals based on this work.
+
+         * Using this material in any quantum computing or quantum simulation system without explicit written approval.
+
+Violation Penalties:
+            * Legal action will be initiated under Indian jurisdiction. This includes civil/criminal prosecution, injunctions, and monetary damages.
+
+            * Offending organizations (academic, corporate, or governmental) will be publicly identified and legally pursued across international jurisdictions.
+
+________________
+
+
+4. Attribution & Permissions
+               * Citations required for any academic references.
+
+               * Explicit written permission is mandatory for any use beyond fair referencing.
+
+               * For verification, licensing, or formal research collaboration:
+
+📞 +91 99159 59924
+ 📧 iamrajvirsingh@gmail.com
