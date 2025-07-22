@@ -1,8 +1,10 @@
 Adaptive Quantum Error Correction & Topological Qubit Stability
 Sole Author: Rajvir Randhawa
 Date : 22 july 2025
+
 🔬 Overview
 This repository outlines two critical phases in quantum architecture:
+
 Phase 1: Dynamically Adaptive Quantum Error Correction (QEC)
 
 
